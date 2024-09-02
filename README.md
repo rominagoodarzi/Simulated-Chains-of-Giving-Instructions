@@ -1,4 +1,4 @@
-### Simulated Chains of Giving Instructions 
+# Simulated Chains of Giving Instructions 
 
 In this study initial participants were asked to complete 20 captchas and then were given a chance to complete additional captchas (0 to 20) for the next participant as an act of kindness. 
 
@@ -10,14 +10,14 @@ Initial participants were assigned to one of 21 conditions varying the number of
 
 All participants could choose anywhere from 0 to 20 captchas to complete for the next participant. 
 
-# Description of Data:
+### Description of Data:
 
 The excel file contains the data from my experiment with the following columns:
 ID: participant ID
 Initial_amt: condition assignment varying the initial amount of captchas completed for participant, ranges 0-20
 PIF_amt: amount of captchas completed for next participant, ranges 0-20 
 
-# Simulation:
+### Simulation:
 
 Based on the amounts initial participants pay forward to the next participant, I simulated how many captchas this next participant would pay forward and so on. 
 
