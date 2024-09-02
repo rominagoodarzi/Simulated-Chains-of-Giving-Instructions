@@ -13,9 +13,9 @@ All participants could choose anywhere from 0 to 20 captchas to complete for the
 ### Description of Data:
 
 The excel file contains the data from my experiment with the following columns:
-ID: participant ID
-Initial_amt: condition assignment varying the initial amount of captchas completed for participant, ranges 0-20
-PIF_amt: amount of captchas completed for next participant, ranges 0-20 
+- ID: participant ID
+- Initial_amt: condition assignment varying the initial amount of captchas completed for participant, ranges 0-20
+- PIF_amt: amount of captchas completed for next participant, ranges 0-20 
 
 ### Simulation:
 
